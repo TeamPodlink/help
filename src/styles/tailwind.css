@@ -1,0 +1,5 @@
+@layer theme, base, components, utilities;
+
+/* Load Tailwind utilities without Preflight so Starlight's default styling stays unchanged. */
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);

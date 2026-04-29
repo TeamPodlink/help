@@ -1,7 +1,8 @@
 {
-  "name": "planetary-plasma",
+  "name": "podlink-help-center",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@10.32.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -11,7 +12,10 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.38.4",
-    "astro": "^6.1.9",
-    "sharp": "^0.34.5"
+    "astro": "^6.1.9"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.5",
+    "tailwindcss": "^4.1.5"
   }
 }
