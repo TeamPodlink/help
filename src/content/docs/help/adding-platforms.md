@@ -17,7 +17,7 @@ When those aren’t available—or the platform requires a private, unique ID ac
 
 ## Want to Suggest a Platform?
 
-If there’s a podcast app you’d like to see added to Podlink, we’d love to hear from you. Please email us at [email protected] with the following:
+If there’s a podcast app you’d like to see added to Podlink, we’d love to hear from you. Please email us at [support@pod.link](mailto:support@pod.link) with the following:
 
 - The name of the app and a link to its website
 - Example URLs for shows and episodes

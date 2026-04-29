@@ -8,7 +8,7 @@ We are Podlink ("**Company**," "**we**," "**us**," "**our**"), a company registe
 
 We operate the website [https://pod.link](https://pod.link).
 
-You can contact us by email at [email protected](mailto:[email protected]) or by mail to 211 S. Clark #1992, Chicago, IL 60604, United States.
+You can contact us by email at [support@pod.link](mailto:support@pod.link) or by mail to 211 S. Clark #1992, Chicago, IL 60604, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Podlink, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -45,7 +45,7 @@ solely for your personal, non-commercial use or internal business purpose.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [email protected](mailto:[email protected]). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [support@pod.link](mailto:support@pod.link). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -178,6 +178,6 @@ In order to resolve a complaint regarding the Services or to receive further inf
 **211 S. Clark #1992**  
 **Chicago, IL 60604**  
 **United States**  
-[email protected](mailto:[email protected])
+[support@pod.link](mailto:support@pod.link)
 
 Last updated on July 27, 2025

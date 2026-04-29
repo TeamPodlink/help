@@ -7,7 +7,7 @@ This privacy notice for Podlink ("**we**," "**us**," or "**our**") describes how
 - Visit our website at [https://pod.link](https://pod.link), or any website of ours that links to this privacy notice
 - Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [email protected](mailto:[email protected]).
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [support@pod.link](mailto:support@pod.link).
 
 ## SUMMARY OF KEY POINTS
 
@@ -25,7 +25,7 @@ This privacy notice for Podlink ("**we**," "**us**," or "**our**") describes how
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by contacting [email protected](mailto:[email protected]). We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by contacting [support@pod.link](mailto:support@pod.link). We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the privacy notice in full.
 
@@ -101,7 +101,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 ***In Short:** We do not knowingly collect data from or market to children under 18 years of age.*
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [email protected](mailto:[email protected]).
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [support@pod.link](mailto:support@pod.link).
 
 ## 8. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -119,7 +119,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 **Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services.
 
-If you have questions or comments about your privacy rights, you may email us at [email protected](mailto:[email protected]).
+If you have questions or comments about your privacy rights, you may contact us at [support@pod.link](mailto:support@pod.link).
 
 ## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -220,7 +220,7 @@ We will only use personal information provided in your request to verify your id
 - You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 - You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at [email protected](mailto:[email protected]). If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at [support@pod.link](mailto:support@pod.link). If you have a complaint about how we handle your data, we would like to hear from you.
 
 ### Colorado Residents
 
@@ -233,9 +233,9 @@ This section applies only to Colorado residents. Under the Colorado Privacy Act 
 - Right to obtain a copy of the personal data you previously shared with us
 - Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email [email protected](mailto:[email protected]).
+To submit a request to exercise these rights described above, please email [support@pod.link](mailto:support@pod.link).
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at [email protected](mailto:[email protected]). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [support@pod.link](mailto:support@pod.link). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 ### Connecticut Residents
 
@@ -248,9 +248,9 @@ This section applies only to Connecticut residents. Under the Connecticut Data P
 - Right to obtain a copy of the personal data you previously shared with us
 - Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email [email protected](mailto:[email protected]).
+To submit a request to exercise these rights described above, please email [support@pod.link](mailto:support@pod.link).
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at [email protected](mailto:[email protected]). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [support@pod.link](mailto:support@pod.link). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 ### Utah Residents
 
@@ -262,7 +262,7 @@ This section applies only to Utah residents. Under the Utah Consumer Privacy Act
 - Right to obtain a copy of the personal data you previously shared with us
 - Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
 
-To submit a request to exercise these rights described above, please email [email protected](mailto:[email protected]).
+To submit a request to exercise these rights described above, please email [support@pod.link](mailto:support@pod.link).
 
 ### Virginia Residents
 
@@ -287,7 +287,7 @@ If this definition of "consumer" applies to you, we must adhere to certain right
 
 *Exercise your rights provided under the Virginia VCDPA*
 
-You may contact us by email at [email protected](mailto:[email protected]).
+You may contact us by email at [support@pod.link](mailto:support@pod.link).
 
 If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -299,7 +299,7 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
 *Right to appeal*
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [email protected](mailto:[email protected]). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [support@pod.link](mailto:support@pod.link). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 ## 11. DO WE MAKE UPDATES TO THIS NOTICE?
 
@@ -309,15 +309,10 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at [email protected](mailto:[email protected]) or contact us by post at:
-
-**Podlink**  
-**211 S. Clark #1992**  
-**Chicago, IL 60604**  
-**United States**
+If you have questions or comments about this notice, you may contact us at [support@pod.link](mailto:support@pod.link)
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: https://pod.link/data-request.
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please contact us at [support@pod.link](mailto:support@pod.link).
 
 Last updated on July 27, 2025
