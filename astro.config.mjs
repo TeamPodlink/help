@@ -5,6 +5,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://help.podlink.com',
 	vite: {
 		plugins: [tailwindcss()],
 	},
@@ -13,7 +14,7 @@ export default defineConfig({
 			title: 'Podlink Help Center',
 			favicon: '/favicon.ico',
 			pagination: false,
-			customCss: ['./src/styles/tailwind.css'],
+			customCss: ['./src/styles/global.css'],
 			sidebar: [
 				{
 					label: 'Start Here',

@@ -6,9 +6,9 @@ title: Terms of Use
 
 We are Podlink ("**Company**," "**we**," "**us**," "**our**"), a company registered in Illinois, United States at 211 S. Clark #1992, Chicago, IL 60604.
 
-We operate the website [[#https://pod.link]]
+We operate the website [https://pod.link](https://pod.link).
 
-You can contact us by email at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection#b6c5c3c6c6d9c4c2f6c6d9d2dadfd8dd98d5d9db) or by mail to 211 S. Clark #1992, Chicago, IL 60604, United States.
+You can contact us by email at [email protected](mailto:[email protected]) or by mail to 211 S. Clark #1992, Chicago, IL 60604, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Podlink, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -17,10 +17,6 @@ Supplemental terms and conditions or documents that may be posted on the Service
 The Services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Services.
 
 We recommend that you print a copy of these Legal Terms for your records.
-
-## TABLE OF CONTENTS
-
-[[#1. OUR SERVICES]] [[#2. INTELLECTUAL PROPERTY RIGHTS]] [[#3. USER REPRESENTATIONS]] [[#4. PROHIBITED ACTIVITIES]] [[#5. USER GENERATED CONTRIBUTIONS]] [[#6. CONTRIBUTION LICENSE]] [[#7. THIRD-PARTY WEBSITES AND CONTENT]] [[#8. SERVICES MANAGEMENT]] [[#9. PRIVACY POLICY]] [[#10. TERM AND TERMINATION]] [[#11. MODIFICATIONS AND INTERRUPTIONS]] [[#12. GOVERNING LAW]] [[#13. DISPUTE RESOLUTION]] [[#14. CORRECTIONS]] [[#15. DISCLAIMER]] [[#16. LIMITATIONS OF LIABILITY]] [[#17. INDEMNIFICATION]] [[#18. USER DATA]] [[#19. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES]] [[#20. CALIFORNIA USERS AND RESIDENTS]] [[#21. MISCELLANEOUS]] [[#22. CONTACT US]]
 
 ### 1. OUR SERVICES
 
@@ -40,13 +36,16 @@ The Content and Marks are provided in or through the Services "AS IS" for your p
 
 **Your use of our Services**
 
-Subject to your compliance with these Legal Terms, including the "[[#4. PROHIBITED ACTIVITIES]] * access the Services; and * download or print a copy of any portion of the Content to which you have properly gained access.
+Subject to your compliance with these Legal Terms, including the [Prohibited Activities](#4-prohibited-activities) section below, you are granted a limited license to:
+
+- access the Services; and
+- download or print a copy of any portion of the Content to which you have properly gained access
 
 solely for your personal, non-commercial use or internal business purpose.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection#11626461617e636551617e757d787f7a3f727e7c). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [email protected](mailto:[email protected]). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -54,11 +53,16 @@ Any breach of these Intellectual Property Rights will constitute a material brea
 
 **Your submissions**
 
-Please review this section and the "[[#4. PROHIBITED ACTIVITIES]]
+Please review this section and the [Prohibited Activities](#4-prohibited-activities) section carefully before using the Services.
 
 **Submissions:** By directly sending us any question, comment, suggestion, idea, feedback, or other information about the Services ("Submissions"), you agree to assign to us all intellectual property rights in such Submission. You agree that we shall own this Submission and be entitled to its unrestricted use and dissemination for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you.
 
-**You are responsible for what you post or upload:** By sending us Submissions through any part of the Services you: * confirm that you have read and agree with our "[[#4. PROHIBITED ACTIVITIES]] * to the extent permissible by applicable law, waive any and all moral rights to any such Submission; * warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and * warrant and represent that your Submissions do not constitute confidential information.
+**You are responsible for what you post or upload:** By sending us Submissions through any part of the Services you:
+
+- confirm that you have read and agree with our [Prohibited Activities](#4-prohibited-activities) section
+- to the extent permissible by applicable law, waive any and all moral rights to any such Submission
+- warrant that any such Submission is original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions
+- warrant and represent that your Submissions do not constitute confidential information
 
 You are solely responsible for your Submissions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
 
@@ -94,7 +98,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 ### 9. PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: [[#https://help.Podlink/legal/privacy]]
+We care about data privacy and security. Please review our [Privacy Policy](/legal/privacy-policy/).
 
 ### 10. TERM AND TERMINATION
 
@@ -120,7 +124,7 @@ To expedite resolution and control the cost of any dispute, controversy, or clai
 
 **Binding Arbitration**
 
-If the Parties are unable to resolve a Dispute through informal negotiations, the Dispute (except those Disputes expressly excluded below) will be finally and exclusively resolved by binding arbitration. YOU UNDERSTAND THAT WITHOUT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The arbitration shall be commenced and conducted under the Commercial Arbitration Rules of the American Arbitration Association ("AAA") and, where appropriate, the AAA’s Supplementary Procedures for Consumer Related Disputes ("AAA Consumer Rules"), both of which are available at the [[#American Arbitration Association (AAA) website]]
+If the Parties are unable to resolve a Dispute through informal negotiations, the Dispute (except those Disputes expressly excluded below) will be finally and exclusively resolved by binding arbitration. YOU UNDERSTAND THAT WITHOUT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The arbitration shall be commenced and conducted under the Commercial Arbitration Rules of the American Arbitration Association ("AAA") and, where appropriate, the AAA’s Supplementary Procedures for Consumer Related Disputes ("AAA Consumer Rules"), both of which are available at the [American Arbitration Association website](https://www.adr.org/).
 
 If for any reason, a Dispute proceeds in court rather than arbitration, the Dispute shall be commenced or prosecuted in the state and federal courts located in Cook, Illinois, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction, and forum non conveniens with respect to venue and jurisdiction in such state and federal courts. Application of the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transaction Act (UCITA) are excluded from these Legal Terms.
 
@@ -170,6 +174,10 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-**Podlink** **211 S. Clark #1992** **Chicago, IL 60604** **United States** [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection#61121411110e131521110e050d080f0a4f020e0c)
+**Podlink**  
+**211 S. Clark #1992**  
+**Chicago, IL 60604**  
+**United States**  
+[email protected](mailto:[email protected])
 
 Last updated on July 27, 2025

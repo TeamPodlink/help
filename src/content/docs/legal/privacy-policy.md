@@ -2,13 +2,16 @@
 title: Privacy Policy
 ---
 
-This privacy notice for Podlink ("**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you: * Visit our website at https://pod.link, or any website of ours that links to this privacy notice * Engage with us in other related ways, including any sales, marketing, or events
+This privacy notice for Podlink ("**we**," "**us**," or "**our**") describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection).
+- Visit our website at [https://pod.link](https://pod.link), or any website of ours that links to this privacy notice
+- Engage with us in other related ways, including any sales, marketing, or events
+
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [email protected](mailto:[email protected]).
 
 ## SUMMARY OF KEY POINTS
 
-*This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [[#TABLE OF CONTENTS]] below to find the section you are looking for.*
+*This summary provides key points from our privacy notice, but you can find out more details in the full notice below.*
 
 **What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
 
@@ -22,13 +25,9 @@ This privacy notice for Podlink ("**we**," "**us**," or "**our**"), describes ho
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by contacting [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection). We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by contacting [email protected](mailto:[email protected]). We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the privacy notice in full.
-
-## TABLE OF CONTENTS
-
-[[#1. WHAT INFORMATION DO WE COLLECT?]] [[#2. HOW DO WE PROCESS YOUR INFORMATION?]] [[#3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?]] [[#4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?]] [[#5. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?]] [[#6. HOW LONG DO WE KEEP YOUR INFORMATION?]] [[#7. DO WE COLLECT INFORMATION FROM MINORS?]] [[#8. WHAT ARE YOUR PRIVACY RIGHTS?]] [[#9. CONTROLS FOR DO-NOT-TRACK FEATURES]] [[#10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?]] [[#11. DO WE MAKE UPDATES TO THIS NOTICE?]] [[#12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?]] [[#13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?]]
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
@@ -50,13 +49,19 @@ We automatically collect certain information when you visit, use, or navigate th
 
 Like many businesses, we also collect information through cookies and similar technologies.
 
-The information we collect includes: * *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings). * *Device Data.* We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
+The information we collect includes:
+
+- **Log and Usage Data.** Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, settings, the date and time of use, pages and files viewed, searches, and other actions you take, as well as device event information such as system activity, error reports, and hardware settings.
+- **Device Data.** We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this data may include your IP address or proxy server, device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 ***In Short:** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.*
 
-**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:** * **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service. * **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+
+- **To deliver and facilitate delivery of services to the user.** We may process your information to provide you with the requested service.
+- **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
 ## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
@@ -96,13 +101,13 @@ When we have no ongoing legitimate business need to process your personal inform
 
 ***In Short:** We do not knowingly collect data from or market to children under 18 years of age.*
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection).
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [email protected](mailto:[email protected]).
 
 ## 8. WHAT ARE YOUR PRIVACY RIGHTS?
 
 ***In Short:** In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[[#12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?]]" below.
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure, (iii) to restrict the processing of your personal information, (iv) if applicable, to data portability, and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by using the contact details in the [How can you contact us about this notice?](#12-how-can-you-contact-us-about-this-notice) section below.
 
 We will consider and act upon any request in accordance with applicable data protection laws. If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.
 
@@ -114,7 +119,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 **Cookies and similar technologies:** Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services.
 
-If you have questions or comments about your privacy rights, you may email us at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection).
+If you have questions or comments about your privacy rights, you may email us at [email protected](mailto:[email protected]).
 
 ## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -128,13 +133,34 @@ What categories of personal information do we collect?
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
-| Category | Examples | Collected | | -------- | -------- | --------- | | A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | NO | | B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | NO | | C. Protected classification characteristics under state or federal law | Gender and date of birth | NO | | D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO | | E. Biometric information | Fingerprints and voiceprints | NO | | F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO | | G. Geolocation data | Device location | NO | | H. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with our business activities | NO | | I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO | | J. Education Information | Student records and directory information | NO | | K. Inferences drawn from collected personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics | NO | | L. Sensitive personal Information | | NO |
+| Category | Examples | Collected |
+| --- | --- | --- |
+| A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | NO |
+| B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | NO |
+| C. Protected classification characteristics under state or federal law | Gender and date of birth | NO |
+| D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO |
+| E. Biometric information | Fingerprints and voiceprints | NO |
+| F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO |
+| G. Geolocation data | Device location | NO |
+| H. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video, or call recordings created in connection with our business activities | NO |
+| I. Professional or employment-related information | Business contact details in order to provide our Services at a business level, job title, work history, and professional qualifications if you apply for a job with us | NO |
+| J. Education Information | Student records and directory information | NO |
+| K. Inferences drawn from collected personal information | Inferences drawn from collected personal information to create a profile or summary about, for example, an individual’s preferences and characteristics | NO |
+| L. Sensitive personal information | None | NO |
 
-We will use and retain the collected personal information as needed to provide the Services or for: * Category B - As long as the user has an account with us We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of: * Receiving help through our customer support channels; * Participation in customer surveys or contests; and * Facilitation in the delivery of our Services and to respond to your inquiries.
+We will use and retain the collected personal information as needed to provide the Services or for:
+
+- **Category B:** As long as the user has an account with us
+
+We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
+
+- Receiving help through our customer support channels
+- Participation in customer surveys or contests
+- Facilitation in the delivery of our Services and to respond to your inquiries
 
 #### How do we use and share your personal information?
 
-Learn about how we use your personal information in the section, "[[#2. HOW DO WE PROCESS YOUR INFORMATION?]]"
+Learn about how we use your personal information in the [How do we process your information?](#2-how-do-we-process-your-information) section.
 
 #### Will your information be shared with anyone else?
 
@@ -194,23 +220,49 @@ We will only use personal information provided in your request to verify your id
 - You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 - You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection). If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at [email protected](mailto:[email protected]). If you have a complaint about how we handle your data, we would like to hear from you.
 
 ### Colorado Residents
 
-This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. Right to be informed whether or not we are processing your personal data Right to access your personal data Right to correct inaccuracies in your personal data Right to request deletion of your personal data Right to obtain a copy of the personal data you previously shared with us Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling") To submit a request to exercise these rights described above, please email [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection).
+This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+
+To submit a request to exercise these rights described above, please email [email protected](mailto:[email protected]).
+
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [email protected](mailto:[email protected]). Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 ### Connecticut Residents
 
-This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. * Right to be informed whether or not we are processing your personal data * Right to access your personal data * Right to correct inaccuracies in your personal data * Right to request deletion of your personal data * Right to obtain a copy of the personal data you previously shared with us * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling") To submit a request to exercise these rights described above, please email [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection).
+This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+
+To submit a request to exercise these rights described above, please email [email protected](mailto:[email protected]).
+
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at [email protected](mailto:[email protected]). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
 ### Utah Residents
 
-This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. * Right to be informed whether or not we are processing your personal data * Right to access your personal data * Right to request deletion of your personal data * Right to obtain a copy of the personal data you previously shared with us * Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data To submit a request to exercise these rights described above, please email [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection).
+This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
+
+To submit a request to exercise these rights described above, please email [email protected](mailto:[email protected]).
 
 ### Virginia Residents
 
@@ -224,11 +276,18 @@ Under the Virginia Consumer Data Protection Act (VCDPA):
 
 If this definition of "consumer" applies to you, we must adhere to certain rights and obligations regarding your personal data.
 
-*Your rights with respect to your personal data* * Right to be informed whether or not we are processing your personal data * Right to access your personal data * Right to correct inaccuracies in your personal data * Right to request deletion of your personal data * Right to obtain a copy of the personal data you previously shared with us * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+*Your rights with respect to your personal data*
+
+- Right to be informed whether or not we are processing your personal data
+- Right to access your personal data
+- Right to correct inaccuracies in your personal data
+- Right to request deletion of your personal data
+- Right to obtain a copy of the personal data you previously shared with us
+- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
 *Exercise your rights provided under the Virginia VCDPA*
 
-You may contact us by email at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection).
+You may contact us by email at [email protected](mailto:[email protected]).
 
 If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -240,7 +299,7 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
 *Right to appeal*
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at [email protected](mailto:[email protected]). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 ## 11. DO WE MAKE UPDATES TO THIS NOTICE?
 
@@ -250,9 +309,12 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at [[email protected]](https://help.podlink.com/cdn-cgi/l/email-protection) or contact us by post at:
+If you have questions or comments about this notice, you may email us at [email protected](mailto:[email protected]) or contact us by post at:
 
-**Podlink** **211 S. Clark #1992** **Chicago, IL 60604** **United States**
+**Podlink**  
+**211 S. Clark #1992**  
+**Chicago, IL 60604**  
+**United States**
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 

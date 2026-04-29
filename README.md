@@ -1,69 +1,43 @@
 # Podlink Help Center
 
-This repository contains the Astro Starlight help center for Podlink.
+This repository contains the help center for Podlink.
 
-## Local Development
+## Adding a New Help Article
 
-Prerequisites:
+1. Create a new Markdown file in `src/content/docs/help/`.
+2. Add frontmatter with at least a title.
+3. Write the article body in standard Markdown.
+4. Add the article to the `Help Articles` sidebar group in `astro.config.mjs`.
+5. Run `pnpm build` to verify the page renders correctly.
 
-- Node.js 24+
-- `pnpm`
+## Editing Existing Articles
 
-Commands:
+When updating docs:
 
-- `pnpm install`
-- `pnpm dev`
-- `pnpm build`
-- `pnpm preview`
+- Keep titles phrased as user questions when possible
+- Prefer short sections with clear headings
+- End with a concrete next step when the user may still be blocked
 
-The local dev server runs at `http://localhost:4321/`.
+## Legal Articles
 
-## Cloudflare Pages Deployment
+The legal pages are plain Markdown files in `src/content/docs/legal/`. Always run `pnpm build` after touching legal docs.
 
-This repo is set up to deploy to Cloudflare Pages from GitHub Actions on every push to `main`.
+## Sidebar Notes
 
-The workflow lives at `.github/workflows/deploy-cloudflare-pages.yml`.
+Starlight navigation is configured manually in `astro.config.mjs`.
 
-### One-Time Setup
+If you add a new article and do not add it to the sidebar, it will still exist as a route, but it will not appear in site navigation.
 
-1. Push this repo to GitHub as `teampodlink/help`.
-2. Create a Cloudflare Pages project.
-   You can do this in the dashboard, or with Wrangler:
+## Deployment
 
-   ```bash
-   pnpm dlx wrangler pages project create <project-name> --production-branch main
-   ```
+Pushes to `main` deploy automatically to Cloudflare Pages through GitHub Actions.
 
-3. In GitHub, add these repository secrets:
-   - `CLOUDFLARE_API_TOKEN`
-   - `CLOUDFLARE_ACCOUNT_ID`
-4. In GitHub, add this repository variable:
-   - `CLOUDFLARE_PAGES_PROJECT_NAME`
+Relevant files:
 
-### Local Cloudflare Credentials
+- Workflow: `.github/workflows/deploy-cloudflare-pages.yml`
+- Wrangler config: `wrangler.jsonc`
+- Local Cloudflare secrets template: `.dev.vars.example`
 
-For local Wrangler-compatible secrets, this repo uses Cloudflare's `.dev.vars` format.
+Production site:
 
-- Copy `.dev.vars.example` to `.dev.vars` if needed.
-- Fill in:
-  - `CLOUDFLARE_API_TOKEN`
-  - `CLOUDFLARE_ACCOUNT_ID`
-  - `CLOUDFLARE_PAGES_PROJECT_NAME`
-
-`.dev.vars` is gitignored and should stay local-only.
-
-### Recommended Cloudflare Values
-
-For this Astro site, Cloudflare’s current Pages build guidance is:
-
-- Production branch: `main`
-- Build command: `pnpm build`
-- Build output directory: `dist`
-
-Even though this repo deploys through GitHub Actions instead of Cloudflare’s native Git integration, those are still the correct Astro build values if you configure the Pages project in the dashboard.
-
-## Notes
-
-- Deployments only run automatically for pushes to `main`.
-- The workflow uploads the built `dist/` directory with Wrangler.
-- Preview deployments for non-`main` branches are not enabled right now.
+- `https://help.podlink.com`
